@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesHanovnikian
 - 👀 I’m interested in ... web development, blockchains
-- 🌱 I’m currently learning ... vue.js , react.js, python
+- 🌱 I’m currently learning ... ruby, vue.js, python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/jameshanovnikian/
 
