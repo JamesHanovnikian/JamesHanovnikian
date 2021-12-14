@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JamesHanovnikian
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... react.js 
+- 👀 I’m interested in ... web development, blockchains
+- 🌱 I’m currently learning ... vue.js , react.js, python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/jameshanovnikian/
 
 <!---
 JamesHanovnikian/JamesHanovnikian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
