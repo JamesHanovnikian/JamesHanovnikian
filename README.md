@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JamesHanovnikian
-- 👀 I’m interested in web development, blockchain
 - 🌱 I’m currently learning ruby, vue.js, python
 - 📫 How to reach me https://www.linkedin.com/in/jameshanovnikian/
 
