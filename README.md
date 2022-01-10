@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesHanovnikian
-- 🌱 I’m currently learning ruby, vue.js, python
+- 🌱 I’m currently learning react!
 - 📫 How to reach me https://www.linkedin.com/in/jameshanovnikian/
 
 <!---
