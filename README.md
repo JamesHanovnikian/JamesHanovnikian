@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesHanovnikian
-- 🌱 I’m currently learning react!
+- 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/jameshanovnikian/
 
 <!---
